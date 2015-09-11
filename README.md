@@ -2,6 +2,8 @@
 
 Just send pdf files to default printer
 
+Only Windows support =(
+
 ## Install
 
 ```
