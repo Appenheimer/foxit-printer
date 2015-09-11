@@ -1,6 +1,6 @@
 {
   "name": "node-foxit-print",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "'Used Foxit Reader to print'",
   "main": "index.js",
   "scripts": {
