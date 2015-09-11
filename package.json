@@ -1,0 +1,25 @@
+{
+  "name": "node-foxit-print",
+  "version": "0.1.0",
+  "description": "'Used Foxit Reader to print'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ya-kostik/foxit-printer.git"
+  },
+  "keywords": [
+    "node",
+    "foxit",
+    "reader",
+    "printer"
+  ],
+  "author": "Constantin Tsukanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ya-kostik/foxit-printer/issues"
+  },
+  "homepage": "https://github.com/ya-kostik/foxit-printer"
+}
