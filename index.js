@@ -6,8 +6,8 @@ var child_process = require('child_process');
  * @param  {Function} cb         [description]
  * @return {[type]}              [description]
  */
-module.exports.print = function(pathToFile, pathToFoxit, cb) {
-    var command = '"' + pathToFoxit + '" /p ' + pathToFile;
+module.exports.print = function(pathToFile, pathToFoxit, printerName, cb) {
+    var command = '"' + pathToFoxit + '" /t ' + pathToFile +' ' + printerName;
     child_process.exec(command, cb);
 }
 
